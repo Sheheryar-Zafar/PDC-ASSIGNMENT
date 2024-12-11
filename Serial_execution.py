@@ -3,8 +3,8 @@ from collections import Counter
 import time
 
 # File paths
-students_file_path = "Datasets/students.csv"
-fees_file_path = "Datasets/student_fees.csv"
+students_file_path = "students.csv"
+fees_file_path = "student_fees.csv"
 
 # Serial Processing
 print("Starting Serial Processing...")
