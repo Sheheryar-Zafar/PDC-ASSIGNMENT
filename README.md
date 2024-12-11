@@ -100,11 +100,21 @@ python serial_processing.py
 
 ---
 
-## Limitations
+## Execution Time
 
-- Assumes valid `Payment Date` format in the `student_fees.csv` file.
-- Large datasets may require sufficient memory for parallel processing.
+Linear Execution
+Start Time: 2024-12-10 19:42:38.056700
 
+End Time: 2024-12-10 19:42:56.945347
+
+Total Time: 20.88 seconds
+
+Parallel Execution
+Start Time: 2024-12-10 19:47:44.715000
+
+End Time: 2024-12-10 19:47:48.288306
+
+Total Time: 04.57 seconds
 
 
 
