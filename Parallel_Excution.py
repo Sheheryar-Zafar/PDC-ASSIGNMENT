@@ -3,8 +3,8 @@ import multiprocessing as mp
 import time
 
 # File paths
-students_file_path = "Datasets/students.csv"
-fees_file_path = "Datasets/student_fees.csv"
+students_file_path = "students.csv"
+fees_file_path = "student_fees.csv"
 
 # Load datasets
 students_df = pd.read_csv(students_file_path)
